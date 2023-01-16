@@ -1,0 +1,10 @@
+20220823
+sprite Animation : 하나씩 그림을 그려서 애니처럼 완성
+spine Animation : 뼈대를 설정해서  움직임
+ - 초기 설정이 힘들지만, 빠르고 편함
+ - 버전에 굉장히 민감함(상위호환이 안됨)
+ - 다운로드 링크 http://ko.esotericsoftware.com/spine-unity-download
+
+Text mesh Pro
+
+Unity Sprite vs UI
